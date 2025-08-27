@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Ambiente
+.env
+
+# Logs
+logs
+*.log
+debug.log
+error.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados local
+*.sqlite
+*.db
