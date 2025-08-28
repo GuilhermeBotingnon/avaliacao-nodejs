@@ -14,3 +14,9 @@ O objetivo principal é demonstrar conhecimento em **integrações de APIs**, **
 - **Dotenv** — Gerenciamento de variáveis de ambiente
 
 ---
+
+## 📦 Instalação
+
+```bash
+npm install
+```
