@@ -20,3 +20,23 @@ O objetivo principal é demonstrar conhecimento em **integrações de APIs**, **
 ```bash
 npm install
 ```
+
+# MYSQL - Digite no terminal:
+
+```bash
+mysql -u root -p
+
+SOURCE init.sql
+```
+
+### importante ressaltar que é nescessário iniciar o banco de dados utilizando o init.sql para criação de tabelas corretas.
+
+### Criar um .env com os seus dados ou utilizar o padrão nas config de db
+
+```bash
+PORT=3000
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASS=localhost
+DB_NAME=avaliacao_tecnica
+```
